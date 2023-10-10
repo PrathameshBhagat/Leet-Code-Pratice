@@ -1,4 +1,8 @@
-class Solution {
+<img src="https://github.com/PrathameshBhagat/LeetCodePratice/assets/90595097/7d1eefeb-c4d4-400f-98c3-9101e6ed5fa3" style="height:45vh;width:80vw">
+
+```java
+
+class Solution   {
     public void setZeroes(int[][] M) {
      int [] blockColumn=new int [M[0].length];
         for (int i=0;i<blockColumn.length-1;i++)
@@ -24,3 +28,4 @@ class Solution {
             }
     }
 }
+```
