@@ -1,5 +1,5 @@
-[Click Here to get Datatypes at the End](#java-data-types)
-### 
+## [Click Here to get Datatypes at the End](#java-data-types)
+
 <img src="https://github.com/PrathameshBhagat/LeetCodePratice/assets/90595097/c557e13f-119a-4fa5-9970-23e43f4d0a43" style="height:45vh;width:80vw">
 
 ### My Multi Word Header
