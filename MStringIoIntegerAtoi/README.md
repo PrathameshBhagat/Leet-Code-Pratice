@@ -56,27 +56,28 @@ class Solution {
 ##  Char
 16-bit(2 bytes)	Stores a single character/letter or ASCII values
 ## Byte  
-8-bit(1 byte) signed two's complement integer **-128 to 127 (inclusive)( -2^7 to 2^7 -1 inc)**  
+8-bit(1 byte) signed two's complement integer **-128 to 127 (inclusive)( -2⁷ to 2⁷⁻¹ inc)**  
 Default: 0,  E.g: byte a = 100, byte b = -50  
 ## Short
-16-bit(2 byte) signed two's complement integer **-32,768 to 32,767 (inclusive) (-2^15 to 2^15 -1 inc)**  
+16-bit(2 byte) signed two's complement integer **-32,768 to 32,767 (inclusive) (-2¹⁵ to 2¹⁵⁻¹ inc)**  
 Default: 0 ,E.g: short s = 10000, short r = -20000
 ## INT
-32-bit(4 byte) signed two's complement integer **-2,147,483,648 to 2,147,483,647(inclusive) (-2^31 to 2^31 -1 inc)**  
+32-bit(4 byte) signed two's complement integer **-2,147,483,648 to 2,147,483,647(inclusive) (-2³¹ to 2³¹⁻¹ inc)**  
 Default :0, E.g: int a = 100000, int b = -200000
 ## Long
 64-bit(8 byte) signed two's complement integer and has Long class   
-**-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 (inclusive)(-2^63 to 2^63 -1)**  
+**-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 (inclusive)(-2⁶³ to 2⁶³⁻¹)**  
 Default value is **0L** , E.g : long a = 100000L, long b = -200000L
 > From Float onwards we will loose precision and wont be exact  
 > **never be used for precise values**  
 > Now you can use decimals and **E or e** too 
 ## Float
 _32bit (4 byte)_ **single-precision** IEEE 754 floating point  
-Allow 6 digit precision after decimal **-2^-149 to (2-2^-23)·2^127**
+Allow 6 digit precision after decimal **-2⁻¹⁴⁹ to (2-2⁻²³)·2¹²⁷**
 Default value is 0.0f, E.g: float f1 = 234.5**f**  
 ## Double
  _64bit (8 byte)_ **double-precision** IEEE 754 floating point  
-Allow up to 15 digit precision after decimal **-2^-1074 to (2-2^-52)·2^1023**  
+Allow up to 15 digit precision after decimal **-2⁻¹⁰⁷⁴ to (2-2⁻⁵²)·2¹⁰²³**  
 Default value is 0.0d ,E.g: double d1 = 123.4  **no need of 'd' a decimal point defaults it**
 # my multi word header
+x
