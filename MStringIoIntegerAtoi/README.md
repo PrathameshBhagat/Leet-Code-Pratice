@@ -1,5 +1,9 @@
+[click on this link](#my-multi-word-header)
+### Datatypes at the End
 <img src="https://github.com/PrathameshBhagat/LeetCodePratice/assets/90595097/c557e13f-119a-4fa5-9970-23e43f4d0a43" style="height:45vh;width:80vw">
 
+### My Multi Word Header
+Update
 ```java
 class Solution {
       public  int myAtoi(String s) {
@@ -71,9 +75,10 @@ Default value is **0L** , E.g : long a = 100000L, long b = -200000L
 > Now you can use decimals and **E or e** too 
 ## Float
 _32bit (4 byte)_ **single-precision** IEEE 754 floating point  
-Allow 6 digit precision after decimal
+Allow 6 digit precision after decimal **-2^-149 to (2-2^-23)·2^127**
 Default value is 0.0f, E.g: float f1 = 234.5**f**  
 ## Double
  _64bit (8 byte)_ **double-precision** IEEE 754 floating point  
-Allow up to 15 digit precision after decimal  
+Allow up to 15 digit precision after decimal **-2^-1074 to (2-2^-52)·2^1023**  
 Default value is 0.0d ,E.g: double d1 = 123.4  **no need of 'd' a decimal point defaults it**
+# my multi word header
