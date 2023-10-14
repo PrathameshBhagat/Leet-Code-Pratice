@@ -5,6 +5,10 @@ It includes **personally contributed code** of only hard 🤜🤛 and medium lev
 
 Level of Problem is indicated by First character in folder **H** 🥉 or **M** 🥈 or **E**🥉 (if exists).  
 
-These were written _**only with help of problem solving & coding skills**_ 🖥️ and no other tools like GPT/Github Solutions 🤒.  
+These were written _**only with help of problem solving & coding skills**_ 🖥️ 
 
->**Language Documentation/Leetcode provided hints are exceptions. 🤓**  
+No other tools like GPT/Github Solutions 🤒 were use .  
+
+>**Language Documentation/Leetcode provided hints are exceptions. 🤓**
+
+You can get the topic revised during problem solving at top of the README.MD file (the link contents at last) 
