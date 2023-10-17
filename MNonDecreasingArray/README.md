@@ -1,4 +1,4 @@
-## [Click Here to get To the Topic left to revise (# Topic to learn )
+## [Click Here to get To the Topic left to revise (#Topic to learn)
 <img src="https://github.com/PrathameshBhagat/LeetCodePratice/assets/90595097/d542f89e-8a7b-4d8c-a450-804890d1fd07" style="height:45vh;width:80vw">
 
 ```java 
