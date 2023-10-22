@@ -14,6 +14,8 @@ No other tools like GPT/Github Solutions 🤒 were use .
 You can get the topic revised ⏮️ during problem solving at top of the README.MD file (the link contents at last) 
 
 # Tasks remaining ⚔️
+- Document Snapshot Array
 - Longest Pallindrome optimise
 - Solve Hard problem regular expression
 - Solve completely minimum sum sub array
+- 
