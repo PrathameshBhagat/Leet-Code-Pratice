@@ -9,6 +9,11 @@ These were written _**only with help of problem solving & coding skills**_ 🖥�
 
 No other tools like GPT/Github Solutions 🤒 were use .  
 
->**Language Documentation/Leetcode provided hints are exceptions. 🤓**
+>**Language Documentation 📃 /Leetcode provided hints  are exceptions. 🤓**
 
-You can get the topic revised during problem solving at top of the README.MD file (the link contents at last) 
+You can get the topic revised ⏮️ during problem solving at top of the README.MD file (the link contents at last) 
+
+# Tasks remaining ⚔️
+- Longest Pallindrome optimise
+- Solve Hard problem regular expression
+- Solve completely minimum sum sub array
