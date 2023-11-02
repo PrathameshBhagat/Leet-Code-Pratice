@@ -1,4 +1,4 @@
-## [(Topic revised)](#topics)
+## [(Looping and its end point correction was revised)]()
 
 <img src="https://github.com/PrathameshBhagat/LeetCodePratice/assets/90595097/da477762-91c4-458e-9164-d3472e181628" style="height:45vh;width:80vw">
 
